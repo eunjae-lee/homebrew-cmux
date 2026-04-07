@@ -1,6 +1,6 @@
 cask "cmux-fork" do
   version "0.63.2"
-  sha256 "42727a66c63158790d47d3b753598895c32eb1ebb0150f2b60ca093a981bcd97"
+  sha256 "b644da5d2e698aa6be2e14eebcf233ccdef295bcced78131e990d597818197aa"
 
   url "https://github.com/eunjae-lee/cmux/releases/download/v#{version}-fork/cmux-fork.zip"
   name "cmux (fork)"
